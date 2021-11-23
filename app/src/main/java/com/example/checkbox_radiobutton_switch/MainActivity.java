@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
      * The variable radioId is the clicked RadioButton from the RadioGroup.
      */
     private void getRadioButtons() {
-        
+
         int radioId = radioGroup.getCheckedRadioButtonId();
 
         selectedRadioButton = findViewById(radioId);
