@@ -1,4 +1,4 @@
-# Android App Library: Checkbox, RadioButton and Switch
+# Android App Library: Checkbox, RadioButton and Switch with Intent
 
 ## About
 Welcome to our Android application. The app is part of the Open Sorce [Android App Library](https://github.com/LukPle/android-app-library.git) 
