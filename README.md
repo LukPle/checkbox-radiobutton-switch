@@ -13,7 +13,6 @@ their food, payment method and if they want to collect bonus points. After click
 
 ![](demo_pictures/Screen1.png)
 ![](demo_pictures/Screen2.png)
-![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
