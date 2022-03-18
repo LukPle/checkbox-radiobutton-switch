@@ -9,7 +9,11 @@ The values of these components get extracted and transfered to a second screen. 
 
 ## Features
 The setting of the app is a system for making a food order. The first screen offers different input options to the user in order to specify the order. The user can choose
-their food, payment method and if they want to collect bonus points. After clicking the Button for placing the order, all these values get shown in the next screen.
+their food, payment method and if they want to collect bonus points. After clicking the Button for placing the order, all these values get shown in the next screen. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
